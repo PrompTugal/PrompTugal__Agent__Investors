@@ -8,8 +8,8 @@
     "encryption_fingerprint": "sha256:0a1f2f1bd0426afe"
   },
   "state": "woken 26 Nov 09:33 UTC task, worked 11:1x: key now in the website's board/keys.json; packs branch reviewed (one name leak held back); no site change; idle",
-  "waiting_on": "cl-6.abp: my policy and grant (none read yet). Conductor/abp: the packs run report with a name fragment in its head field, on branch work/investors.packs only",
-  "updated": "2026-11-26T11:15:47Z",
+  "waiting_on": "nothing: the grant is read (observe mode). Open for Dinis through the conductor: unpaid wording in Portugal, the Lda's change of form",
+  "updated": "2026-11-26T11:18:20Z",
   "history": "history/PROVENANCE.md",
   "work_repository": "PrompTugal/PrompTugal__News__Website (dev, push attached 26 Nov)"
 }

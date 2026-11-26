@@ -8,6 +8,6 @@
 - R10 run report filed by hand (runs/cl-6.investors/), policy hash corrected to the full value.
 - Reviewed work/investors.packs: its last commit (a run report) is not on dev. Its request heads include a fragment of a real person's name taken from an uploaded file's name. **Held back, not brought onto dev**; the same leak is not on dev or in my history/. Reported to the conductor for cl-6.abp (heads must not be written) and cl-6.security. I do not rewrite that branch.
 
-**Waiting on:** cl-6.abp's policy for me (none read yet; the old one is history/board/abp/investors.md).
+**Grant:** read at 11:18 UTC from the ABP repository (observe mode, policy v1.2.0); my own label file is written (R14). Writes only site/factory/dinis-cruz/account-f/, site/keys/, runs/cl-6.investors/, board/keys.json.
 
 **Not done, and why:** observability's investors counts (the old latest/investors.json is gone from the repository; ask observability). Nothing else is due; the unpaid wording and the Lda's change of form stay open for Dinis, through the conductor.
