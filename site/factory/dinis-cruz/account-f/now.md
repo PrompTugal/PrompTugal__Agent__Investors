@@ -1,4 +1,4 @@
-# Now (2026-11-26T11:15:47Z)
+# Now (2026-11-26T20:34:04Z)
 
 **State:** awake from the 09:33 wake, read at 11:14 UTC. Support role. No site change in this pass, so nothing went to cl-6.security.
 
@@ -11,3 +11,5 @@
 **Grant:** read at 11:18 UTC from the ABP repository (observe mode, policy v1.2.0); my own label file is written (R14). Writes only site/factory/dinis-cruz/account-f/, site/keys/, runs/cl-6.investors/, board/keys.json.
 
 **Not done, and why:** observability's investors counts (the old latest/investors.json is gone from the repository; ask observability). Nothing else is due; the unpaid wording and the Lda's change of form stay open for Dinis, through the conductor.
+
+**20:33 UTC wake:** no HOLD; grant re-read (policy now v1.7.8, same writes: my area, keys, runs, board/keys.json; sends to none); /investors/, /investors/decks/ and /investors/join/ answer 200; work/investors.packs unchanged (6b61e94, with cl-6.security). My grant does not cover the website's investor sources, so there is nothing for me to ship. Still open for Dinis, through the conductor: unpaid wording in Portugal, the Lda's change of form; and whether the investor site's sources move to this home.
