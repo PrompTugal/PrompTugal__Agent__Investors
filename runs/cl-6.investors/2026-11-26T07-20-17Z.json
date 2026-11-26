@@ -7,7 +7,7 @@
  "line": "HAND-WRITTEN, hooks not installed in this session. Setup run: made and published keys, moved 1,052 files of history into history/ with provenance, wrote the area, two status messages to the conductor. Counters are unmeasured and left at 0; no breach known, by my own account.",
  "policy": {
   "version": "1.2.0",
-  "sha256": "sha256:87b1760db7fb4d5f"
+  "sha256": "sha256:87b1760db7fb4d5fb3c3d1300be194f90a05d676677b99dc2bc37681b03d3274"
  },
  "text_included": false,
  "sessions": 1,

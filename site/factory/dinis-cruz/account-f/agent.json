@@ -7,9 +7,9 @@
     "signing_fingerprint": "sha256:5a5ebca988c8465c",
     "encryption_fingerprint": "sha256:0a1f2f1bd0426afe"
   },
-  "state": "setup done and area current as of 26 Nov 2026: key published, history moved (1,052 files, 87 commits logged), role and restart written; support role, idle until woken",
-  "waiting_on": "cl-6.abp: my policy and grant; cl-6.conductor: my key in the website's board/keys.json and my wake",
-  "updated": "2026-11-26T02:36:52Z",
+  "state": "woken 26 Nov 09:33 UTC task, worked 11:1x: key now in the website's board/keys.json; packs branch reviewed (one name leak held back); no site change; idle",
+  "waiting_on": "cl-6.abp: my policy and grant (none read yet). Conductor/abp: the packs run report with a name fragment in its head field, on branch work/investors.packs only",
+  "updated": "2026-11-26T11:15:47Z",
   "history": "history/PROVENANCE.md",
   "work_repository": "PrompTugal/PrompTugal__News__Website (dev, push attached 26 Nov)"
 }

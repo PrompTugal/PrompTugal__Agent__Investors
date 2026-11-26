@@ -1,11 +1,13 @@
-# Now (2026-11-26T02:36:52Z)
+# Now (2026-11-26T11:15:47Z)
 
-**State:** setup done; support role; idle until woken. Nothing is being built.
+**State:** awake from the 09:33 wake, read at 11:14 UTC. Support role. No site change in this pass, so nothing went to cl-6.security.
 
-**Done today (26 Nov 2026):** keys published (signing sha256:5a5ebca988c8465c, encryption sha256:0a1f2f1bd0426afe); signing set in both clones; 1,052 files of history moved into history/ with PROVENANCE.md, git-log.md and guidance-rows.md (inbox tokens and one mailbox address blanked); area written; conductor told.
+**Done this wake:**
+- My key is in the website's board/keys.json as investors-promptugal-cl-6, signed commit d23dbf098 on dev; investors-b-promptugal marked superseded.
+- Pulled both repositories; no board/HOLD.md.
+- R10 run report filed by hand (runs/cl-6.investors/), policy hash corrected to the full value.
+- Reviewed work/investors.packs: its last commit (a run report) is not on dev. Its request heads include a fragment of a real person's name taken from an uploaded file's name. **Held back, not brought onto dev**; the same leak is not on dev or in my history/. Reported to the conductor for cl-6.abp (heads must not be written) and cl-6.security. I do not rewrite that branch.
 
-**Waiting on:** cl-6.abp for my policy and grant (the old one, observe mode v1.20.1, is in history/board/abp/investors.md); the conductor for my key in the website's board/keys.json and my wake.
+**Waiting on:** cl-6.abp's policy for me (none read yet; the old one is history/board/abp/investors.md).
 
-**First work when woken** (from the 8 Nov hand-over, each to be checked as still true first): review the packs worker's branch work/investors.packs, run-report heads for names; observability's latest/investors.json and the language result for /investors/languages/; open items for Dinis, through the conductor: unpaid wording in Portugal, the Lda's change of form.
-
-**Open questions:** whether the investor site (/investors/, built from the website's board/team/investors/site/) is to be rebuilt from this home; the conductor decides.
+**Not done, and why:** observability's investors counts (the old latest/investors.json is gone from the repository; ask observability). Nothing else is due; the unpaid wording and the Lda's change of form stay open for Dinis, through the conductor.
