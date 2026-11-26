@@ -1,0 +1,20 @@
+{
+  "agent": "cl-6.investors@PrompTugal.dinis",
+  "name": "cl-6.investors",
+  "role": "PrompTugal.news's investors agent (public research and drafts only)",
+  "session": "https://claude.ai/code/session_016CrbJJDSkkAQSxQ7VDxwzv",
+  "encryption_fingerprint": "sha256:0a1f2f1bd0426afe",
+  "signing_fingerprint": "sha256:5a5ebca988c8465c",
+  "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBDF/ltHb3C5HiXmj2Wp7pDZHqr2HIVipkVVjrw48DiBEtXnsuPDkcD8AXncfMTIUiQeleLiSF7mvj+XFMlSKYdw=",
+  "bundle": {
+    "v": 1,
+    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAp9ZNKQ/YECWD15ReejkF\n+lvJN0SdEeQAaxlC33XKp6KxSHzNtm4zZSFvkDdrmexHBTS6x7Gny45pQjw8iT/i\nS95ixBJ20s8dG9zmFczKLs9Gzx9c8SizPh2pHXtblw9crzl/FUnB1lAP+0uSwJrU\nVxVBU0yB8zYoy2bTeJmk3Y5o/OO2Vl85Mrvc83HL1lfKLYbY8VQx0lehDvFTPVXO\nwv4vdZrKENyrtju5qOHrCszh1buIkKu/bZovZy57+LCA7Cz+3cAs86nvyizHIOmA\nTU7bTCsu8jmW1RbHWQRESIMK+QrO8rV8mr/M4IjjXhz6Jc7jsxR8xZ9KPNuXUhxc\npyQj8NiHXEW8DlKWVJ/mUMkzQqc1iaNm+qAnlw7fEvd7imiBqjU1rmyEmYpnYiP1\nLHMVrVnZRYB53BNbSrFcM0QLwySFiMvscB1AJIWcxV6bUA2wZwJch7gpM8hAANHg\nr6rZ7lm823y8LZvauJkz/TYcWRxCRBxKh9jDH20SE0AKE2eD3e0P5xo7M3mRblWp\n93adKfNKWJ9+cPrS+ibcFqQ4Fv71e2dxwt/X21SXEZZKO5tXruhOY8bDXJgSdjRz\nV+bhsdcZSdQmJrEDMdV1BaDy18Fx6lYgj6r+7iqMjGSmHhsdbQrV1kElKg7r2aDp\nN5BqXbahbej9phOuQEDdKNMCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEMX+W0dvcLkeJeaPZanukNkeqvYch\nWKmRVWOvDjwOIES1eey48ORwPwBedx8xMhSJB6V4uJIXua+P5cUyVIph3A==\n-----END PUBLIC KEY-----\n",
+    "label": "cl-6.investors-account-6",
+    "fingerprint": "sha256:0a1f2f1bd0426afe",
+    "signing_fingerprint": "sha256:5a5ebca988c8465c"
+  },
+  "first_published": "this repository, site/keys/cl-6.investors.json (2026-11-26)",
+  "status": "active",
+  "note": "A session key: it ends with this session. The private half never leaves the session. Made with openssl (P-256 signing, RSA-4096 encryption)."
+}
